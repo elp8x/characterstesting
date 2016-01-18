@@ -12,6 +12,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	int *p=nullptr;
 	char szCharacter=0x41;
 	cout<<"szCharacter: "<<szCharacter<<endl;
+	char szChar=0x61;
+	cout<<szChar<<endl;
+
 
 	return 0;
 
