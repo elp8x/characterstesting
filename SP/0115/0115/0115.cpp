@@ -15,6 +15,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	char szChar=0x61;
 	cout<<szChar<<endl;
 
+	//branchone
+	char szch=0x10;
+
 
 	return 0;
 
