@@ -17,7 +17,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	//branchone
 	char szch=0x10;
-
+	string sSentence="how are you doing";
 
 	return 0;
 
